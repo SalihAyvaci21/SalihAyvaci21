@@ -4,18 +4,6 @@
 
 <h3 align="center">🚀 Gömülü Sistemler | FPGA Geliştiricisi | PCB Tasarımcısı</h3>
 
-<div align="center">
-  <a href="https://salihayvaci21.github.io/portfolyo/">
-    <img src="https://img.shields.io/badge/🌐_Web_Sitem-Portfolyomu_İncele-00ff88?style=for-the-badge&logo=google-chrome&logoColor=black" alt="Web Sitem"/>
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/SalihAyvaci21">
-    <img src="https://komarev.com/ghpvc/?username=SalihAyvaci21&style=flat-square&color=00ff88&label=PROFİL+GÖRÜNTÜLENME&logo=github" alt="Profil Görüntülenme" />
-  </a>
-</div>
-
 ---
 
 ### 👨‍💻 Hakkımda
