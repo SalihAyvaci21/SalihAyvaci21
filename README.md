@@ -35,21 +35,12 @@ Aşağıdaki grafikler teknik uzmanlık alanlarımdaki güncel yetkinlik seviyem
 
 | **Alan** | **Teknolojiler** |
 | :--- | :--- |
-| **Donanım Dilleri** | ![Verilog](https://img.shields.io/badge/-Verilog-F7DF1E?style=for-the-badge&logo=verilog&logoColor=black) ![VHDL](https://img.shields.io/badge/-VHDL-00599C?style=for-the-badge) |
+| **Donanım Dilleri** | ![Verilog](https://img.shields.io/badge/-Verilog-F7DF1E?style=for-the-badge&logo=verilog&logoColor=black)|
 | **Gömülü Yazılım** | ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) |
 | **PCB & EDA** | ![KiCad](https://img.shields.io/badge/-KiCad-3145A6?style=for-the-badge&logo=KiCad&logoColor=white) ![Altium](https://img.shields.io/badge/-Altium-A5915F?style=for-the-badge&logo=altium-designer&logoColor=white) |
 | **Mikrodenetleyiciler** | ![STM32](https://img.shields.io/badge/-STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white) |
 | **FPGA Araçları** | ![Xilinx](https://img.shields.io/badge/-Xilinx-C20000?style=for-the-badge&logo=amd&logoColor=white) ![Yosys](https://img.shields.io/badge/-Yosys-4B5563?style=for-the-badge) ![Gowin EDA](https://img.shields.io/badge/-Gowin-1F2937?style=for-the-badge) |
 
-</div>
-
----
-
-### 📈 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalihAyvaci21&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" height="180" alt="Salih's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalihAyvaci21&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00ff88&text_color=c9d1d9" height="180" alt="Top Languages" />
 </div>
 
 ---
